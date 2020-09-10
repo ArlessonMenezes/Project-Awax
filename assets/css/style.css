@@ -708,7 +708,7 @@ CSS DE ÁREA ESPECIFICA
 }
 .social-media img {
     height: 27px;
-    margin-right: 5px;
+    margin-right: 35px;
 }
 .social-media p {
     margin-right: 35px;
@@ -717,7 +717,7 @@ CSS DE ÁREA ESPECIFICA
     font-weight: 600;
 }
 .social-media .share-about {
-    margin-right: 80px;
+    margin-right: 85px;
     margin-left: 10px;
     color: #AAA;
     text-transform: uppercase;
@@ -1195,13 +1195,13 @@ CSS DE ÁREA ESPECIFICA
     }
     .social-media .share-about {
         font-size: 9px;
-        margin-left: 10px;
+        margin-left: 20px;
         
     }
     .social-media img {
         height: 14px;
-        width: 14px;   
-        margin-left: 20px;
+        width: 14px;  
+        margin-right: 10px; 
     }
     
     .section-some-facts {
@@ -1224,8 +1224,8 @@ CSS DE ÁREA ESPECIFICA
     }
 
     .section-map {
-        padding-left: 30px;
-        padding-right: 30px;
+       padding: 0;
+       padding-bottom: 250px;
     }
     .section-map--area {
         width: auto;
